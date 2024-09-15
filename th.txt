@@ -1,0 +1,45 @@
+Programming language: Programming lnaguage is a set instruction given to perform a specific task.
+ex : c , cpp , java
+main()
+run : server side
+
+
+Scriptting language: Scripting lnaguage is a subset of Programming language.
+ex: html , css , javascript , python 
+single line code : 
+run : client side / browser 
+
+There are two types of pages.
+1. statically pages
+    - when you declare the variable then required data type
+2. dynamic pages
+    - when you declare the variable then can't required data type
+
+
+Javascript have no data type.
+
+Javascript run always browser / client side.
+
+History of javascript.
+Java Script was devloped by brenden eich in 1995. for netscap navigator browser.
+javaScript engines :
+- spidermonkey -> firefox
+- chakra -> internet exporer
+- v8 -> google chrome [node]
+- javaScript core : safari 
+- rhino : java 
+
+There are three ways to defiine js.
+1. external js [.js] 
+2. internal js <script>
+3. inline js 
+
+
+There are three keywords here.
+1. var -- global scope
+2. let -- block scope {}
+3. const -- block scope {} and also can't change the value.
+
+
+
+
