@@ -2,3 +2,20 @@ Find three number gretter than with ternary operator
 
 1. forloop -- 10 task 
 2. while loop -- 10 task
+
+
+
+take input from user : userName with spacing 
+
+aashiqsingh
+
+@aashiqsingh11
+
+
+chhandsvyas
+
+@chhandsvyas11
+
+dishantsir
+
+@dishantsir10
