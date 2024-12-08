@@ -1,0 +1,13 @@
+why function use ?
+- for code reusiblity 
+
+there are four types function
+1. without return without arguments
+2. without return with argument 
+3. with return without arguments
+4. with return with argument
+
+
+function : function keyword 
+
+return : return keyword 

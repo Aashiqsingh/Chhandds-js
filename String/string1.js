@@ -1,10 +1,10 @@
-var str = "Royal technosoft pvt ltd";
-var str2 = "chhands vyas"
+// var str = "Royal technosoft pvt ltd";
+// var str2 = "chhands vyas"
 
-// var x = str.toLowerCase()
-var x = str.toUpperCase()
+// // var x = str.toLowerCase()
+// var x = str.toUpperCase()
 
-console.log(x);
+// console.log(x);
 
 
 
@@ -81,3 +81,12 @@ console.log(x);
 
 // var x = str.startsWith("Royal")
 // console.log(x);
+
+
+var str = prompt("Enter your fullname")
+
+// var ans = "@" + str + str.length
+var ans = "@" + str.concat(str.length)
+
+
+console.log(ans);
